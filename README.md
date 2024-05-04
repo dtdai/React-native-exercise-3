@@ -5,5 +5,5 @@
 
 ## Demo:
 
-https://github.com/dtdai/React-native-exercise-3/assets/89447684/c4f91aee-9a81-4ffe-9116-12046e532abc
+https://github.com/dtdai/React-native-exercise-3/assets/89447684/1874d479-323c-409d-a67f-fceaaa28d5a7
 
